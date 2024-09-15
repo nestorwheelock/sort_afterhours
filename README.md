@@ -1,7 +1,7 @@
 
 # Afterhours File Sorter
 
-**Afterhours File Mover** is a Rust-based command-line tool that sorts files modified during a time of day for instance "afterhours" (8 PM to 9 AM) to a designated `afterhours/` directory. The tool checks the modification times of files in a directory and relocates files based on the time range.
+**Afterhours File Sorter** is a Rust-based command-line tool that sorts files modified during a time of day for instance "afterhours" (8 PM to 9 AM) to a designated `afterhours/` directory. The tool checks the modification times of files in a directory and relocates files based on the time range.
 
 ## Features
 
